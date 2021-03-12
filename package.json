@@ -1,6 +1,6 @@
 {
-  "homepage": "https://thuytienledeveloper.github.io/covid-19",
-  "name": "covid19",
+  "homepage": "http://thuytienledeveloper.github.io/covid-19",
+  "name": "covid-19",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
